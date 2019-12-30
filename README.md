@@ -1,7 +1,7 @@
 # 191410037
 **Geraldy Fatulloh**  
-:e-mail: aim@unma.ac.id  
-:telephone: +6281212777182  
+:e-mail: geraldyfatullah@gmail.com  
+:telephone: +6285659458862 
   
 **Course List**  
 - Algoritma dan Pemrograman  
