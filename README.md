@@ -5,3 +5,5 @@
   
 **Course List**  
 - Algoritma dan Pemrograman  
+- Struktur Data 1
+- Analisis dan Desain Algoritma  
