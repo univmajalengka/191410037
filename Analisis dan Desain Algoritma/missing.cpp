@@ -2,8 +2,10 @@
 
 using namespace std;
 
-int missing (int a[], int x){
-	int total;  
+int missing (int x){
+	int a[] = {1,2,3,4,6,7,8,9,10};
+	int total; 
+	x = sizeof(a);
 	total  = ((x + 1) * (x + 2))/2;  
 	for (int i = 0; i < x; i++)    
     	total -= a[i];  
@@ -18,6 +20,6 @@ int main() {
 			cout << "Angka ke " << i+1 << " : "; cin >> arr[i];  
    }
    cout << endl; 
-   cout << "Angka yang hilang : " << missing(arr,5);
+   cout << "Angka yang hilang : " << missing(arr);
    return 0;
 }
